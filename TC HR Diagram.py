@@ -101,4 +101,5 @@ ax.set_zticks([80,85,90,95,100,105,110,115,120])
 
 plt.savefig('TC HR.pdf', dpi=1024)
 plt.savefig('TC HR.png', dpi=1024)
+plt.savefig('TC HR Small.png', dpi=64)
 plt.show()

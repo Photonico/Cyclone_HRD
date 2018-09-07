@@ -369,4 +369,5 @@ ax.set_yticks([850,855,860,865,870,875,880,885,890,895,900,905,910,915,920,925,9
 
 plt.savefig('TC Index.pdf', dpi=512)
 plt.savefig('TC Index.png', dpi=512)
+plt.savefig('TC Index Small.png', dpi=64)
 plt.show()
